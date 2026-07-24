@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yapılacaklar</string>
+
+    <string name="new_task_hint">Yeni görev…</string>
+    <string name="add_task">Görev ekle</string>
+    <string name="delete_task">Görevi sil</string>
+    <string name="clear_completed">Tamamlananları temizle</string>
+
+    <string name="filter_all">Tümü (%d)</string>
+    <string name="filter_active">Bekleyen (%d)</string>
+    <string name="filter_completed">Biten (%d)</string>
+
+    <string name="empty_all">Henüz görev yok.\nYukarıdan ilk görevini ekle.</string>
+    <string name="empty_active">Bekleyen görev yok. Hepsi bitti!</string>
+    <string name="empty_completed">Henüz tamamlanan görev yok.</string>
+
+    <string name="task_deleted">Görev silindi</string>
+    <string name="undo">Geri al</string>
+</resources>
